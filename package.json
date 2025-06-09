@@ -1,0 +1,32 @@
+{
+  "name": "local-file-transfer-protocol",
+  "version": "1.0.1",
+  "description": "A fast and reliable protocol for transferring files between computers on a local network with directory structure preservation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Tcp_version.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperKubilay/FileTransferProtocol.git"
+  },
+  "keywords": [
+    "file-transfer",
+    "protocol",
+    "local-network",
+    "file-sharing",
+    "network-protocol",
+    "directory-transfer",
+    "file-sync"
+  ],
+  "bin": {
+    "lftp": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DeveloperKubilay/FileTransferProtocol/issues"
+  },
+  "homepage": "https://github.com/DeveloperKubilay/FileTransferProtocol#readme"
+}
