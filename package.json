@@ -1,6 +1,6 @@
 {
   "name": "local-file-transfer-protocol",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A fast and reliable protocol for transferring files between computers on a local network with directory structure preservation",
   "main": "index.js",
   "scripts": {
