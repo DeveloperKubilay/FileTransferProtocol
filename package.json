@@ -1,6 +1,6 @@
 {
   "name": "local-file-transfer-protocol",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A fast and reliable protocol for transferring files between computers on a local network with directory structure preservation",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "lftp": "./index.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/DeveloperKubilay/FileTransferProtocol/issues"
